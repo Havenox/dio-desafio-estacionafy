@@ -12,3 +12,4 @@ E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\refint\Estacionament
 E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.pdb
 E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.genruntimeconfig.cache
 E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\ref\EstacionamentoCodProprio.dll
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.sourcelink.json

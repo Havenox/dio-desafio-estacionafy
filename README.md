@@ -56,13 +56,13 @@ Este projeto foi construído **sem utilizar o código base sugerido no desafio**
 1. Clone o repositório:
 
 ```bash
- git clone https://github.com/seu-usuario/estacionafy.git
+ git clone https://github.com/Havenox/dio-desafio-estacionafy.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
- cd estacionafy
+ cd dio-desafio-estacionafy
 ```
 
 3. Compile e execute:
@@ -76,10 +76,13 @@ Este projeto foi construído **sem utilizar o código base sugerido no desafio**
 ## 🧩 Exemplo de Uso
 
 ```
-Seja bem vindo ao Estacionafy!
+Estacionafy - Menu Principal
+
+
+Digite a opção desejada:
 
 1 - Cadastrar ENTRADA de veículo
-2 - Cadastrar SAÍDA de veículo
+2 - Cadastrar SAÍDA veículo
 3 - Listar veículos estacionados
 4 - Verificar os Preços do Estacionamento
 5 - Alterar os Preços do Estacionamento
@@ -90,8 +93,14 @@ Seja bem vindo ao Estacionafy!
 Exemplo de saída ao remover veículo:
 
 ```
+Estacionafy - Cadastro de Veículo
+
+
 Retirada do veículo Registrada!
-Placa: ABC-1234 - Valor total: R$35,00
+Placa: ABC-1234 - Valor total: R$35
+
+
+Pressione qualquer tecla para continuar...
 ```
 
 ---
