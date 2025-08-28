@@ -1,0 +1,14 @@
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\bin\Debug\net9.0\EstacionamentoCodProprio.exe
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\bin\Debug\net9.0\EstacionamentoCodProprio.deps.json
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\bin\Debug\net9.0\EstacionamentoCodProprio.runtimeconfig.json
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\bin\Debug\net9.0\EstacionamentoCodProprio.dll
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\bin\Debug\net9.0\EstacionamentoCodProprio.pdb
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.AssemblyInfoInputs.cache
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.AssemblyInfo.cs
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.csproj.CoreCompileInputs.cache
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.dll
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\refint\EstacionamentoCodProprio.dll
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.pdb
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\EstacionamentoCodProprio.genruntimeconfig.cache
+E:\DEV\DIO\dotNET\EstacionamentoCodProprio\obj\Debug\net9.0\ref\EstacionamentoCodProprio.dll
